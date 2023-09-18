@@ -1,4 +1,4 @@
-# StrategyPatternOnNET
+# Strategy Pattern On .NET
 
 Implementation based on 
 

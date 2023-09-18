@@ -4,7 +4,7 @@ using Strategy.Service.Contracts;
 
 namespace Strategy.Api
 {
-    public static class StrategyApiInstaller
+    public static class ApiInstaller
     {
         public static void AddStrategyApi(this IServiceCollection services)
         {

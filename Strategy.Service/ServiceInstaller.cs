@@ -3,7 +3,7 @@ using Strategy.Service.Contracts;
 
 namespace Strategy.Service
 {
-    public static class StrategyServiceInstaller
+    public static class ServiceInstaller
     {
         public static void AddStrategyService(this IServiceCollection services)
         {
